@@ -1,0 +1,72 @@
+[
+    {
+        "first_name": "Gabriela",
+        "last_name": "Rezende",
+        "phone": "(91) 9361-1754",
+        "city": "Itaja\u00ed",
+        "email": "gabriela.rezende@example.com"
+    },
+    {
+        "first_name": "Oscar",
+        "last_name": "Blanchard",
+        "phone": "02-74-71-61-72",
+        "city": "Villeurbanne",
+        "email": "oscar.blanchard@example.com"
+    },
+    {
+        "first_name": "Stina",
+        "last_name": "Presthus",
+        "phone": "30289831",
+        "city": "Bremanger",
+        "email": "stina.presthus@example.com"
+    },
+    {
+        "first_name": "Chara",
+        "last_name": "Yazloveckiy",
+        "phone": "(066) V16-5833",
+        "city": "Vuglegirsk",
+        "email": "chara.yazloveckiy@example.com"
+    },
+    {
+        "first_name": "Jader",
+        "last_name": "Moraes",
+        "phone": "(78) 5413-1252",
+        "city": "Petr\u00f3polis",
+        "email": "jader.moraes@example.com"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Margaret",
+        "phone": "M85 L65-2365",
+        "city": "Inverness",
+        "email": "adam.margaret@example.com"
+    },
+    {
+        "first_name": "Gilbert",
+        "last_name": "Simmmons",
+        "phone": "08-5026-7253",
+        "city": "Launceston",
+        "email": "gilbert.simmmons@example.com"
+    },
+    {
+        "first_name": "Everett",
+        "last_name": "Marshall",
+        "phone": "0110418 321 3948",
+        "city": "Portsmouth",
+        "email": "everett.marshall@example.com"
+    },
+    {
+        "first_name": "Myrtle",
+        "last_name": "May",
+        "phone": "02-2214-1695",
+        "city": "Australian Capital Territory",
+        "email": "myrtle.may@example.com"
+    },
+    {
+        "first_name": "Onira",
+        "last_name": "da Cruz",
+        "phone": "(02) 5088-8093",
+        "city": "S\u00e3o Caetano do Sul",
+        "email": "onira.dacruz@example.com"
+    }
+]
